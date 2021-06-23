@@ -1,0 +1,16 @@
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel.deps.json
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel.runtimeconfig.json
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel.runtimeconfig.dev.json
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel.dll
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/ref/PedraTesouraPapel.dll
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/bin/Debug/net5.0/PedraTesouraPapel.pdb
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.csproj.AssemblyReference.cache
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.GeneratedMSBuildEditorConfig.editorconfig
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.AssemblyInfoInputs.cache
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.AssemblyInfo.cs
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.csproj.CoreCompileInputs.cache
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.dll
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/ref/PedraTesouraPapel.dll
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.pdb
+/home/studioapps/Documentos/bootCampGFTdotNET/PedraTesouraPapel/PedraTesouraPapel/obj/Debug/net5.0/PedraTesouraPapel.genruntimeconfig.cache
